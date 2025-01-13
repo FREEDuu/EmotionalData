@@ -14,17 +14,12 @@ hugo
 
 ssh -T git@github.com
 
-  
-
 echo "push changes into EmotionalData.git repo"
-
 
 git add .
 
 git commit -m "Create new post !! :D "
 
 git push
-
-  
 
 echo "everything fine and up to date"

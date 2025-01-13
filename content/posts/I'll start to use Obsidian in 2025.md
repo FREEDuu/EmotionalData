@@ -21,6 +21,6 @@ Using Obsidian i'll track everything i learn this year and in 2026 i'll see if o
 The big idea is to create an online and easy shareable graph of my knowledge in the future, something like the graph view of obsidian but open source and easier.
 I'd like also to create a social-like platform where you can see other's graph view and share your own one.
 
-!![Image Description](/images/image3.png)
+!![Image Description](/image3.png)
 
 tags : [[blog]], [[personal thoughts]]

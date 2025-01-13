@@ -21,7 +21,7 @@ SELECT * FROM MY_PERSONAL_KNOWLEDGE
 ```
 
 
-!![Image Description](/images/image1.png)
+!![Image Description](/image1.png)
 ## Some Tech Problems Encountered 
 
 normally with obsidian you specify a presence of an image with   `![[image]]` but with Hugo this doesn't work and you have to specify an image with this tag `![Image of a chart] (/image1.png)`
