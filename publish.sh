@@ -1,18 +1,11 @@
 
-rsync -av --delete "/home/francesco/Documents/Obsidian Vault/static" "/home/francesco/Desktop/EmotionalData/"
-
-
-echo "copy images"
-
-  
-
 rsync -av --delete "/home/francesco/Documents/Obsidian Vault/posts" "/home/francesco/Desktop/EmotionalData/content"
-
   
-
 echo "copy posts"
 
-# with rsync i copy all my images and blog's posts into my hugo folders
+# with rsync i copy all my blog's posts into my hugo folders
+
+python3 images.py
 
 
 echo "Connecting to GH via ssh"
