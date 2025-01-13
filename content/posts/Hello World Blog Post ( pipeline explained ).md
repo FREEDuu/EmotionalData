@@ -31,7 +31,7 @@ normally with obsidian you specify a presence of an image with   `![[image]]` bu
 if i want to make a new post i just run a bash, simple and beautiful script that take sync the folder where i write posts in obsidian with the folder content/posts in Hugo main folders
 
 
-![Image of a chart](image2.png)
+!![Image Description](/image2.png)
 
 ```bash
 #!/bin/bash

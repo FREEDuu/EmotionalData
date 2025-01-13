@@ -47,7 +47,7 @@ I also think that this activity will help me to speak and write better in Englis
 &lt;p&gt;normally with obsidian you specify a presence of an image with   &lt;code&gt;![[image]]&lt;/code&gt; but with Hugo this doesn&amp;rsquo;t work and you have to specify an image with this tag &lt;code&gt;![Image of a chart] (/image1.png)&lt;/code&gt;&lt;/p&gt;
 &lt;h2 id=&#34;a-big-automated-script&#34;&gt;A Big Automated Script&lt;/h2&gt;
 &lt;p&gt;if i want to make a new post i just run a bash, simple and beautiful script that take sync the folder where i write posts in obsidian with the folder content/posts in Hugo main folders&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;image2.png&#34; alt=&#34;Image of a chart&#34;&gt;&lt;/p&gt;
+&lt;p&gt;!&lt;img src=&#34;/image2.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#!/bin/bash
 &lt;/span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
 rsync -av --delete &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;From/obsidianVaultPath/to_copy&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;To_copy/Path&amp;#34;&lt;/span&gt;
