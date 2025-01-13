@@ -1,12 +1,12 @@
 
-rsync -av --delete "/home/francesco/Documents/Obsidian Vault/static" "/home/francesco/Desktop/PersonalBlog/"
+rsync -av --delete "/home/francesco/Documents/Obsidian Vault/static" "/home/francesco/Desktop/EmotionalData/"
 
 
 echo "copy images"
 
   
 
-rsync -av --delete "/home/francesco/Documents/Obsidian Vault/posts" "/home/francesco/Desktop/PersonalBlog/content"
+rsync -av --delete "/home/francesco/Documents/Obsidian Vault/posts" "/home/francesco/Desktop/EmotionalData/content"
 
   
 
