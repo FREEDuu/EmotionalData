@@ -6,7 +6,24 @@
     <description>Recent content in Posts on EmotionalData</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World Blog Post ( pipeline explained )</title>
+      <link>/posts/about/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>FRANCESCO DE ROSA HI ! :D , I&amp;rsquo;m francesco and i&amp;rsquo;m a CS student , i&amp;rsquo;m a reallt curios and geek boy born in Foligno, PG , ITALY in 28/06/2002
+This is just a personal blog post where i just introduce myself , if you want to contact me, please refer to my social links below :
+instagram : https://www.instagram.com/sono_francesco_ciao/ telegram : https://t.me/FREED_uu</description>
+      <content>&lt;h1 id=&#34;francesco-de-rosa&#34;&gt;FRANCESCO DE ROSA&lt;/h1&gt;
+&lt;p&gt;HI ! :D , I&amp;rsquo;m francesco and i&amp;rsquo;m a CS student , i&amp;rsquo;m a reallt curios and geek boy born in Foligno, PG , ITALY in 28/06/2002&lt;/p&gt;
+&lt;p&gt;This is just a personal blog post where i just introduce myself , if you want to contact me, please refer to my social links below :&lt;/p&gt;
+&lt;p&gt;instagram : &lt;a href=&#34;https://www.instagram.com/sono_francesco_ciao/&#34;&gt;https://www.instagram.com/sono_francesco_ciao/&lt;/a&gt;
+telegram : &lt;a href=&#34;https://t.me/FREED_uu&#34;&gt;https://t.me/FREED_uu&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>I&#39;ll start to use Obsidian in 2025</title>
       <link>/posts/ill-start-to-use-obsidian-in-2025/</link>
