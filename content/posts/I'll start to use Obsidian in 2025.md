@@ -3,8 +3,8 @@ title: I'll start to use Obsidian in 2025
 date: 2025-01-11
 draft: false
 tags:
-  - blog
   - personal
+  - blog
 ---
 
 ## Why i'll start

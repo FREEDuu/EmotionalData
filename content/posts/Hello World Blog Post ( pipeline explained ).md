@@ -4,7 +4,7 @@ date: 2025-01-10
 draft: false
 tags:
   - blog
-  - "#tutorial"
+  - tutorial
 ---
 
 ## Why i'm doing this
