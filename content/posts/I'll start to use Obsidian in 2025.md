@@ -7,10 +7,10 @@ tags:
   - blog
 ---
 
-## Why i'll start
+## Why I'll start
 
-Because i'm start to feel the necessity of producing something instead of consuming , i want to share value and learn every day something new.
-i'd like to become a pro in writing beautiful markdown and rephrase ideas, building knowledge basically is what i want to focus in this 2025
+Because I'm start to feel the necessity of producing something instead of consuming , I want to share value and learn every day something new.
+I'd like to become a pro in writing beautiful markdown and rephrase ideas, building knowledge basically is what i want to focus in this 2025
 
 ## I'll setup all my ideas and notes/information
 
