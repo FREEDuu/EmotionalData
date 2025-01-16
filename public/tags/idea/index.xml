@@ -23,7 +23,7 @@ While running i start to feel better and i know a lot of people sharing the same
 &lt;p&gt;what if i make a webapp to display data that strava doesn&amp;rsquo;t display ? and also add some other fancy feature and information like UTMB race estimation time ecc .. ?
 i just like this idea and came up with a solution in some days that i&amp;rsquo;ll publish in the end of January&lt;/p&gt;
 &lt;h2 id=&#34;how-my-web-app-works&#34;&gt;How my web app works&lt;/h2&gt;
-&lt;p&gt;!&lt;img src=&#34;/Pasted%20image%2020250116220452.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Pasted%20image%2020250116220452.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;strava-api&#34;&gt;Strava API&lt;/h2&gt;
 &lt;p&gt;Strava allow an authenticated app to retrieve data of an authenticated user if he allow the app to do so, and i just use this functionality to get the data of any runner that use my app
 other info to :&lt;/p&gt;
@@ -31,7 +31,7 @@ other info to :&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://developers.strava.com/&#34;&gt;https://developers.strava.com/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;some-preview-of-my-app&#34;&gt;Some preview of my app&lt;/h1&gt;
-&lt;p&gt;!&lt;img src=&#34;/Pasted%20image%2020250116220738.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/Pasted%20image%2020250116220738.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     

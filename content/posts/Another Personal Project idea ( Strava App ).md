@@ -20,7 +20,7 @@ i just like this idea and came up with a solution in some days that i'll publish
 
 ## How my web app works 
 
-!![Image Description](/Pasted%20image%2020250116220452.png)
+![Image Description](/Pasted%20image%2020250116220452.png)
 
 ## Strava API 
 
@@ -30,4 +30,4 @@ other info to :
 
 # Some preview of my app
 
-!![Image Description](/Pasted%20image%2020250116220738.png)
+![Image Description](/Pasted%20image%2020250116220738.png)
