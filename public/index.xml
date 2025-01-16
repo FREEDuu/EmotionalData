@@ -6,9 +6,37 @@
     <description>Recent content on EmotionalData</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World Blog Post ( pipeline explained )</title>
+      <title>Another Personal Project idea ( Strava App )</title>
+      <link>/posts/another-personal-project-idea-strava-app-/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/another-personal-project-idea-strava-app-/</guid>
+      <description>I&amp;rsquo;m start running 6 month ago and now i&amp;rsquo;m quite into the running community and i&amp;rsquo;m loving it. While running i start to feel better and i know a lot of people sharing the same hobby and i&amp;rsquo;m starting wonder if i can something to make the community better
+The problem one problem i faced while running is the lack of data viability and visualization &amp;hellip; i mean, Strava ( the app i and almost every runner use ) offer some chart of your activities but is not enough for a geek like me &amp;hellip; So i decide to do something to resolve this issue</description>
+      <content>&lt;p&gt;I&amp;rsquo;m start running 6 month ago and now i&amp;rsquo;m quite into the running community and i&amp;rsquo;m loving it.
+While running i start to feel better and i know a lot of people sharing the same hobby and i&amp;rsquo;m starting wonder if i can something to make the community better&lt;/p&gt;
+&lt;h1 id=&#34;the-problem&#34;&gt;The problem&lt;/h1&gt;
+&lt;p&gt;one problem i faced while running is the lack of data viability and visualization &amp;hellip; i mean, Strava ( the app i and almost every runner use ) offer some chart of your activities but is not enough for a geek like me &amp;hellip; So i decide to do something to resolve this issue&lt;/p&gt;
+&lt;h1 id=&#34;the-idea&#34;&gt;The idea&lt;/h1&gt;
+&lt;p&gt;what if i make a webapp to display data that strava doesn&amp;rsquo;t display ? and also add some other fancy feature and information like UTMB race estimation time ecc .. ?
+i just like this idea and came up with a solution in some days that i&amp;rsquo;ll publish in the end of January&lt;/p&gt;
+&lt;h2 id=&#34;how-my-web-app-works&#34;&gt;How my web app works&lt;/h2&gt;
+&lt;p&gt;!&lt;img src=&#34;/Pasted%20image%2020250116220452.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;strava-api&#34;&gt;Strava API&lt;/h2&gt;
+&lt;p&gt;Strava allow an authenticated app to retrieve data of an authenticated user if he allow the app to do so, and i just use this functionality to get the data of any runner that use my app
+other info to :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.strava.com/&#34;&gt;https://developers.strava.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;some-preview-of-my-app&#34;&gt;Some preview of my app&lt;/h1&gt;
+&lt;p&gt;!&lt;img src=&#34;/Pasted%20image%2020250116220738.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       

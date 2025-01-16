@@ -1,5 +1,5 @@
 ---
-title: Hello World Blog Post ( pipeline explained )
+title: About Me
 date: 2025-01-13
 draft: false
 tags:
