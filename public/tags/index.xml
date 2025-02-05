@@ -6,13 +6,33 @@
     <description>Recent content in Tags on EmotionalData</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ai</title>
+      <link>/tags/ai/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ai/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/blog/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>vectors</title>
+      <link>/tags/vectors/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vectors/</guid>
       <description></description>
       <content></content>
     </item>
@@ -33,26 +53,6 @@
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>/tags/personal/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>#ai</title>
-      <link>/tags/#ai/</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/#ai/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>#vectors</title>
-      <link>/tags/#vectors/</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/#vectors/</guid>
       <description></description>
       <content></content>
     </item>

@@ -1,11 +1,11 @@
 ---
 title: Hello World Blog Post ( pipeline explained )
-date: 2025-01-10
+date: 2025-02-05
 draft: false
 tags:
   - blog
-  - "#ai"
-  - "#vectors"
+  - ai
+  - vectors
 ---
 
 Used Tech Stack : 
