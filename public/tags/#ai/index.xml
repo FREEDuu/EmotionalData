@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#ai on EmotionalData</title>
+    <link>/tags/#ai/</link>
+    <description>Recent content in #ai on EmotionalData</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/#ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World Blog Post ( pipeline explained )</title>
+      <link>/posts/how-my-telegram-bot-works/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-my-telegram-bot-works/</guid>
+      <description>Used Tech Stack :
+ Mistral AI (to embed the description the user gives) Pinecone (a vector DB to store all the anime embeddings) Telegram.py API (to handle the bot behavior) Selenium (to scrape data)  First PART : Scrape the data (selenium) Using selenium i scrape lots of anime from anime websites and store data about lots of anime (including title, image, descriptions, genres , etc . . .)</description>
+      <content>&lt;p&gt;Used Tech Stack :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mistral AI (to embed the description the user gives)&lt;/li&gt;
+&lt;li&gt;Pinecone (a vector DB to store all the anime embeddings)&lt;/li&gt;
+&lt;li&gt;Telegram.py API  (to handle the bot behavior)&lt;/li&gt;
+&lt;li&gt;Selenium (to scrape data)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;first-part--scrape-the-data-selenium&#34;&gt;First PART : Scrape the data (selenium)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/Pasted%20image%2020250205144459.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Using selenium i scrape lots of anime from anime websites and store data about lots of anime (including title, image, descriptions, genres , etc . . .)&lt;/p&gt;
+&lt;p&gt;I store everything in a json file to handle easily everything offline !&lt;/p&gt;
+&lt;h2 id=&#34;second-part--embedding-the-anime-mistralai-and-pinecone&#34;&gt;Second part : Embedding the anime (MistralAI and Pinecone)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/Pasted%20image%2020250205145619.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Using a python script I send to Mistral AI mi anime, with description , title and other informations.
+Mistral return for each anime a vector rappresenting the embedding for each anime (1024 float value), this embedding store in a vector the real meaning and soul of every anime&lt;/p&gt;
+&lt;p&gt;After that i store every embedding in a Pinecone (vector DB) in order to query efficiently in the future. In fact, a vector DB can return, based on the embeddings, and given a new embedding, the most k similar vector, based on cosine similarity.&lt;/p&gt;
+&lt;h2 id=&#34;third-part--telegram-bot-python&#34;&gt;Third Part : Telegram Bot (python)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/Pasted%20image%2020250205150906.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A python script that powers the telegram bot, get the user description of the anime, after that, the script retrieve the embedding of this description from an API request to a Mistral AI.
+Once we know the embedding of the description, we can get the most similar anime from the pinecone DB and reply with that to the user !!&lt;/p&gt;
+&lt;h2 id=&#34;code-available-on-my-github-repo-&#34;&gt;Code available on my github repo :&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/FREEDuu/TelegramBOT-anime&#34;&gt;https://github.com/FREEDuu/TelegramBOT-anime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;fell free to take the code, pull request or contact me for any questions !! :D&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

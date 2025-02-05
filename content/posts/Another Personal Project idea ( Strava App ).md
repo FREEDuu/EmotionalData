@@ -31,3 +31,5 @@ other info to :
 # Some preview of my app
 
 ![Image Description](/Pasted%20image%2020250116220738.png)
+
+tags [[blog]], [[project]], [[idea]] 
