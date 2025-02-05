@@ -1,5 +1,5 @@
 ---
-title: Hello World Blog Post ( pipeline explained )
+title: How my Telegram BOT works
 date: 2025-02-05
 draft: false
 tags:
