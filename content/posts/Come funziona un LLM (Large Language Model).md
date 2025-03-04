@@ -1,3 +1,12 @@
+---
+title: Come funziona un LLM (Large Language Model)
+date: 2025-03-04
+draft: false
+tags:
+  - blog
+  - LLM
+---
+
 ## Breve introduzione
 
 Un **LLM** è un modello AI specializzato nel **linguaggio**, allenato su **terabyte di dati** di testo (spesso presi dal web) e reso accessibile agli utenti tramite un'interfaccia grafica.
