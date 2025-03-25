@@ -1,5 +1,5 @@
 ---
-title: Capire un cifrario Simmetrico ( DSA ) 
+title: Capire un cifrario Simmetrico ( AES )
 date: 2025-03-25
 draft: false
 tags:
@@ -77,7 +77,7 @@ padded_data = pad(stringa, block_size, style='pkcs7')
 
 ```
 
-Per far girare il codice in locale ti servirà pycryptodome (libreria fondamentale), usare un ** Virtual Environment** è caldamente consigliato 
+Per far girare il codice in locale ti servirà pycryptodome (libreria fondamentale), usare un **Virtual Environment** è caldamente consigliato 
 
 ```bash
 pip install pycryptodome
