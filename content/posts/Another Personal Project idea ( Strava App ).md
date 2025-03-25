@@ -32,4 +32,4 @@ other info to :
 
 ![Image Description](/Pasted%20image%2020250116220738.png)
 
-tags [[blog]], [[project]], [[idea]] 
+tags **blog**, **project**, **idea** 

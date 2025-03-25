@@ -24,7 +24,7 @@ SELECT * FROM MY_PERSONAL_KNOWLEDGE
 ![Image Description](/image1.png)
 ## Some Tech Problems Encountered 
 
-normally with obsidian you specify a presence of an image with   `![[image]]` but with Hugo this doesn't work and you have to specify an image with this tag `![Image of a chart] (/image1.png)`
+normally with obsidian you specify a presence of an image with   `!**image**` but with Hugo this doesn't work and you have to specify an image with this tag `![Image of a chart] (/image1.png)`
 
 ## A Big Automated Script
 
@@ -75,4 +75,4 @@ https://www.youtube.com/watch?v=dnE7c0ELEH8 but i don't like at all his HOSTINGE
 i follow this HUGO official docs to deploy everything with NETLIFY :
 https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
-tags : [[blog]], [[guide]]
+tags : **blog**, **guide**

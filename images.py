@@ -17,7 +17,7 @@ for filename in os.listdir(posts_dir):
         
         # Step 2: Find all image links in the format ![Image Description](/images/Pasted%20image%20...%20.png)
         images = re.findall(r'\[\[([^]]*\.png)\]\]', content)
-        
+        tags = re.findall(r'\[\[([^\]]+)\]\]', content)
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
             # Prepare the Markdown-compatible link with %20 replacing spaces
@@ -28,6 +28,11 @@ for filename in os.listdir(posts_dir):
             image_source = os.path.join(attachments_dir, image)
             if os.path.exists(image_source):
                 shutil.copy(image_source, static_images_dir)
+
+        for tag in tags:
+            # Replace the tag with the desired Markdown-compatible format
+            markdown_tag = f"**{tag}**"
+            content = content.replace(f"[[{tag}]]", markdown_tag)
 
         # Step 5: Write the updated content back to the markdown file
         with open(filepath, "w") as file:

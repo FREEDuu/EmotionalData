@@ -23,4 +23,4 @@ I'd like also to create a social-like platform where you can see other's graph v
 
 ![Image Description](/image3.png)
 
-tags : [[blog]], [[personal thoughts]]
+tags : **blog**, **personal thoughts**
