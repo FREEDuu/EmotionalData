@@ -1,5 +1,5 @@
 ---
-title: Come funziona un LLM (Large Language Model)
+title: Imparare il bit flipping
 date: 2025-03-28
 draft: false
 tags:
