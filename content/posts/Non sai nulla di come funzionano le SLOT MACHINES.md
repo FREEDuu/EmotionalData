@@ -1,3 +1,15 @@
+
+---
+title: Non sai nulla di come funzionano le SLOT MACHINES
+date: 2025-06-02
+draft: false
+tags:
+  - personal
+  - hashing
+  - crypto
+  - gambling
+---
+  
 ## Qualche dato sul volume del gioco d'azzardo in ITALIA
 
 ## Topic affrontati : 
